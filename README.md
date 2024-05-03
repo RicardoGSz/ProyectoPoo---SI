@@ -2,4 +2,4 @@
 
 -agrege y acomode algunas notas para una mejor lectura
 
--solucione algunos error y advertencias en el codigo
+-solucione algunos errores y advertencias en el codigo
