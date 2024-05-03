@@ -78,7 +78,7 @@ public class Invaders extends Canvas {
         BufferedImage img = sprites.get("bicho.gif");
         if (img == null) {
             
-            BufferedImage image = loadImage("res/bicho.gif");// Cargar la imagen desde el archivo si no está en el HashMap
+            BufferedImage image = loadImage("SpaceInvaders/bicho.gif");// Cargar la imagen desde el archivo si no está en el HashMap
             sprites.put("bicho.gif", image);// Agregar la imagen al HashMap
         }
         return img;
